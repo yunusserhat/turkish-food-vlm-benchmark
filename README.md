@@ -1,5 +1,7 @@
 # Turkish Food VLM Benchmark
 
+> **Note:** Full code and resources will be made publicly available upon the acceptance of the associated research paper.
+
 This repository contains the code and experimental setup for the research paper: **"Performance comparison of multimodal vision-language models in classifying Turkish dishes"**
 
 ## Abstract
@@ -23,13 +25,13 @@ This study presents the first comprehensive benchmark of seven open-source multi
 
 ## Models Evaluated
 
-1. **Aya Vision 32B** - Cohere's multilingual vision-language model
-2. **Gemma 3 27B** - Google DeepMind's multimodal model
-3. **InternVL3 38B** - OpenGVLab's vision-language model
-4. **Qwen2-VL 72B-AWQ** - Alibaba's quantized vision-language model
-5. **Qwen2.5-VL 72B-AWQ** - Updated version with improved performance
-6. **Cosmos-LLaVA** - Turkish-focused model by Yıldız Technical University
-7. **Phi-4 Multimodal** - Microsoft's compact multimodal model
+1. **Aya Vision 32B** - 
+2. **Gemma 3 27B** - 
+3. **InternVL3 38B** - 
+4. **Qwen2-VL 72B-AWQ** - 
+5. **Qwen2.5-VL 72B-AWQ** - 
+6. **Cosmos-LLaVA** - 
+7. **Phi-4 Multimodal** - 
 
 ## Datasets
 
