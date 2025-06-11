@@ -25,17 +25,17 @@ This study presents the first comprehensive benchmark of seven open-source multi
 
 ## Models Evaluated
 
-1. **Aya Vision 32B** - 
-2. **Gemma 3 27B** - 
-3. **InternVL3 38B** - 
-4. **Qwen2-VL 72B-AWQ** - 
-5. **Qwen2.5-VL 72B-AWQ** - 
-6. **Cosmos-LLaVA** - 
-7. **Phi-4 Multimodal** - 
+1. **Aya Vision 32B** 
+2. **Gemma 3 27B** 
+3. **InternVL3 38B** 
+4. **Qwen2-VL 72B-AWQ** 
+5. **Qwen2.5-VL 72B-AWQ**
+6. **Cosmos-LLaVA**
+7. **Phi-4 Multimodal** 
 
 ## Datasets
 
-- **TurkishFoods-15**: 7,411 images across 15 traditional Turkish dish categories
+- **TurkishFoods-15**: 7,411 images across 15 Turkish dish categories
 - **TurkishFoods-25**: 11,461 images across 25 Turkish dish categories
 
 ## Installation
